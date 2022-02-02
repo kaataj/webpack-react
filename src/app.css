@@ -1,0 +1,16 @@
+h1{
+    color:red;
+}
+
+#popup{
+    position:absolute;
+
+    left: 50%;
+    z-index:99;
+    top: 10%;
+    background-color: blue;
+    width: 30%;
+    display: block;
+    padding: 20px;
+    color: white;
+}
